@@ -26,7 +26,7 @@ section {
 }
 
 header {
-  background: url('hero_image.jpg') center/cover no-repeat;
+  background: url('top.png') center/cover no-repeat;
   height: 100vh;
   color: #fff;
   text-align: center;
